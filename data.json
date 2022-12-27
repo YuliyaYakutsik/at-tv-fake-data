@@ -95,6 +95,18 @@
             "averagePriceWeek": 543,
             "averagePriceMonth": 243,
             "averagePriceYear": 534
+        },
+        {
+            "id": 19684,
+            "name": "Thomas Sagplads 4",
+            "totalPriceDay": 4665,
+            "totalPriceWeek": 1243,
+            "totalPriceMonth": 643265,
+            "totalPriceYear": 5436456,
+            "averagePriceDay": 534,
+            "averagePriceWeek": 543,
+            "averagePriceMonth": 243,
+            "averagePriceYear": 534
         }
     ]
 }
