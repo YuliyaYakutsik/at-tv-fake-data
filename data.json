@@ -107,6 +107,90 @@
             "averagePriceWeek": 543,
             "averagePriceMonth": 243,
             "averagePriceYear": 534
+        },
+        {
+            "id": 196841,
+            "name": "Thomas Sagplads 5",
+            "totalPriceDay": 0.00,
+            "totalPriceWeek": 0.00,
+            "totalPriceMonth": 0.00,
+            "totalPriceYear": 0.00,
+            "averagePriceDay": 534,
+            "averagePriceWeek": 543,
+            "averagePriceMonth": 243,
+            "averagePriceYear": 534
+        },
+        {
+            "id": 196842,
+            "name": "Thomas Sagplads 6",
+            "totalPriceDay": 0.00,
+            "totalPriceWeek": 0.00,
+            "totalPriceMonth": 0.00,
+            "totalPriceYear": 0.00,
+            "averagePriceDay": 534,
+            "averagePriceWeek": 543,
+            "averagePriceMonth": 243,
+            "averagePriceYear": 534
+        },
+        {
+            "id": 196842,
+            "name": "Thomas Sagplads 7",
+            "totalPriceDay": 0,
+            "totalPriceWeek": 0,
+            "totalPriceMonth": 0,
+            "totalPriceYear": 0,
+            "averagePriceDay": 534,
+            "averagePriceWeek": 543,
+            "averagePriceMonth": 243,
+            "averagePriceYear": 534
+        },
+        {
+            "id": 196843,
+            "name": "Thomas Sagplads 8",
+            "totalPriceDay": 0.00,
+            "totalPriceWeek": 0.00,
+            "totalPriceMonth": 0.00,
+            "totalPriceYear": 0.00,
+            "averagePriceDay": 534,
+            "averagePriceWeek": 543,
+            "averagePriceMonth": 243,
+            "averagePriceYear": 534
+        },
+        {
+            "id": 196844,
+            "name": "Thomas Sagplads 9",
+            "totalPriceDay": 0.00,
+            "totalPriceWeek": 0.00,
+            "totalPriceMonth": 0.00,
+            "totalPriceYear": 0.00,
+            "averagePriceDay": 534,
+            "averagePriceWeek": 543,
+            "averagePriceMonth": 243,
+            "averagePriceYear": 534
+        },
+        {
+            "id": 196845,
+            "name": "Thomas Sagplads 10",
+            "totalPriceDay": 0.01,
+            "totalPriceWeek": 0.01,
+            "totalPriceMonth": 0.01,
+            "totalPriceYear": 0.01,
+            "averagePriceDay": 534,
+            "averagePriceWeek": 543,
+            "averagePriceMonth": 243,
+            "averagePriceYear": 534
+        },
+        {
+            "id": 196846,
+            "name": "Thomas Sagplads 11",
+            "totalPriceDay": 0.00,
+            "totalPriceWeek": 0.00,
+            "totalPriceMonth": 0.00,
+            "totalPriceYear": 0.00,
+            "averagePriceDay": 534,
+            "averagePriceWeek": 543,
+            "averagePriceMonth": 243,
+            "averagePriceYear": 534
         }
     ]
 }
